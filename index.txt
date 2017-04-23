@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>クラ女のアイドル</title>
+
+</head>
+<body　background="test.png">
+
+<img src="img/test.png"
+ width="1128" height="1070" alt="welcome">
+<br><br>
+
+お象様って言ってんダルルォ！？
+<br>
+(パ象(画像)は<a href="https://mastodon.cloud/@aosaka">青魚氏</a>に帰属します)
+
+<br>
+
+<a href="https://raito417.github.io/kurajoHP/home.html">
+パオ(戻)る</a><br><br>
+
+</body>
+</html>
